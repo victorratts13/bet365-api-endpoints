@@ -14,6 +14,8 @@
 
 > DefautApi: https://www.bet365.com/defaultapi/
 
+> VSports: https://vsports.bet365.com/
+
 > GetQuicklinkFixtures: https://extra.bet365.com/ResultsApi/GetQuicklinkFixtures (```Auth```)
 
 
