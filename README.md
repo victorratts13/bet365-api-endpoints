@@ -7,8 +7,11 @@
 
 ### Links
 > SportsBook: https://www.bet365.com/SportsBook.API/
+
 > OfferApi: https://www.bet365.com/offersapi/offers/v2/
+
 > StreamEvents: https://extra.bet365.com/StreamingEvents/
+
 > GetQuicklinkFixtures: https://extra.bet365.com/ResultsApi/GetQuicklinkFixtures (```Auth```)
 
 
