@@ -12,6 +12,8 @@
 
 > StreamEvents: https://extra.bet365.com/StreamingEvents/
 
+> DefautApi: https://www.bet365.com/defaultapi/
+
 > GetQuicklinkFixtures: https://extra.bet365.com/ResultsApi/GetQuicklinkFixtures (```Auth```)
 
 
